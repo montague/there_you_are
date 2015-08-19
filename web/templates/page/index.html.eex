@@ -1,0 +1,13 @@
+<style>
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#map {
+  width: 500px;
+  height: 500px;
+}
+</style>
+<h1></h1>
+<div id="map"></div>
